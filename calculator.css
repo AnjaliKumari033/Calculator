@@ -1,0 +1,33 @@
+.calculator{
+    background: white;
+    height: 50px;
+    width: 200;
+border-radius: 20px;  
+border-color:rgb(17, 17, 17);  
+margin-top: 10px;
+margin-left: 10px;
+padding-left: 5px;
+font-weight: bold;
+font-size: 20px;
+}
+.cal{
+    background-color: green;
+    height: 480px;
+    width: 300px;
+    border-radius: 30px;
+    border: bold;
+margin-left: 130px;
+margin-top: 50px;
+
+}
+.a,.b,.c,.d,.e,.f,.g,.h,.i,.j,.k,.l,.m,.n,.o,.p,.q,.r,.s,.t{
+    background-color: rgba(14, 176, 240, 0.842);
+    height: 62px;
+    width: 48px;
+    border-radius: 20px;
+    border-color: black;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 34px;
+    
+}
